@@ -1,24 +1,4 @@
-# eladmin
 
-项目基于 Spring Boot 2.1.0 、 Spring boot Jpa、 Spring Security、redis、Vue的前后端分离的权限管理系统，项目采用分模块开发方式， 权限控制采用 RBAC（Role-Based Access Control，基于角色的访问控制），支持数据字典、数据权限管理、前端菜单支持动态路由
-
-#### 项目源码
-
-|     |   后端源码  |   前端源码  |
-|---  |--- | --- |
-|  github   |  https://github.com/elunez/eladmin   |  https://github.com/elunez/eladmin-qd   |
-|  码云   |  https://gitee.com/elunez/eladmin   |  https://gitee.com/elunez/eladmin-qt   |
-#### 开发文档
-[https://docs.auauz.net/#/](https://docs.auauz.net/#/)
-
-#### 预览地址
-[https://auauz.net](https://auauz.net)
-
-##### 用户账号密码
-
-- 管理员： admin
-- 测试用户： test
-- 密码： 123456
 
 #### 开发环境
 
@@ -106,35 +86,3 @@
 - axios
 - element ui
 
-#### 系统预览
-<table>
-    <tr>
-        <td><img src="https://i.loli.net/2019/05/18/5cdf77fa8144d68788.png"/></td>
-        <td><img src="https://i.loli.net/2019/05/18/5cdf7763993e361778.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://i.loli.net/2019/05/18/5cdf7763971d453615.png"/></td>
-        <td><img src="https://i.loli.net/2019/05/18/5cdf77632e85a60423.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://i.loli.net/2019/05/18/5cdf77632b4b090165.png"/></td>
-        <td><img src="https://i.loli.net/2019/05/18/5cdf77639b1be47210.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://i.loli.net/2019/05/18/5cdf77639929277783.png"/></td>
- <td><img src="https://i.loli.net/2019/05/18/5cdf78969adc389599.png"/></td>
-    </tr>
-</table>
-
-#### 项目捐赠
-
-> Donate
-> 
-> 项目的发展离不开你的支持，请作者喝杯咖啡吧☕！
-
-|   微信  |   支付宝  |
-|--- | --- |
-|  ![](https://i.loli.net/2019/03/28/5c9c951c61a9a.png)   |  ![](https://i.loli.net/2019/03/28/5c9c95355fecb.png)  |
-#### 反馈交流
-
-- QQ交流群：891137268
